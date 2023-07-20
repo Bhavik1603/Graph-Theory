@@ -2,7 +2,7 @@
 Graph Theory Programs which I learned during my academics.
 Here are some graph theory programs you can explore and implement:
 <ol>
-  <li><b>Graph Representation:</b> Write programs to represent graphs using various data structures like adjacency matrix, adjacency list, and edge list.</li>
+  <li><b>Graph Representation:</b> Programs to represent graphs using various data structures like adjacency matrix, adjacency list, and edge list.</li>
   <li><b>Graph Traversals:</b> Implement depth-first search (DFS) and breadth-first search (BFS) algorithms to traverse a graph and explore its nodes.</li>
   <li><b>Shortest Path Algorithms:</b> Develop programs to find the shortest path between two nodes in a graph using algorithms like Dijkstra's algorithm or the Bellman-Ford algorithm.</li>
   <li><b>Minimum Spanning Tree:</b> Write a program to find the minimum spanning tree of a graph using algorithms like Kruskal's algorithm or Prim's algorithm.</li>
