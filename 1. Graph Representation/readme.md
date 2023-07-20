@@ -2,20 +2,26 @@
 
 ## Outputs
 <b>Adjacency Matrix</b>
+```bash
 Adjacency Matrix representation of the graph:
 0 1 0 0 1
 1 0 1 1 1 
 0 1 0 1 0
 0 1 1 0 1
 1 1 0 1 0
+```
+
 <b>Adjacency List</b>
+```bash
 Adjacency List representation of the graph:
 0 -> 1 4
 1 -> 0 2 3 4
 2 -> 1 3
 3 -> 1 2 4
 4 -> 0 1 3
+```
 <b>Edge List</b>
+```bash
 Edge List representation of the graph:
 0 -> 1
 1 -> 0
@@ -31,3 +37,4 @@ Edge List representation of the graph:
 3 -> 2
 3 -> 4
 4 -> 3
+```
